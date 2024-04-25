@@ -32,7 +32,7 @@ LRUCacheAssignment is a project developed for managing a cache system using the 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yashikajain0312/LRUCacheAssignment.git
+   git clone https://github.com/yashikajain0312/LRUCache.git
 
 2. Navigate to the backend directory:
    cd controller
