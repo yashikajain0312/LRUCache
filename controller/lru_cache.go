@@ -170,7 +170,7 @@ func main() {
     })
 
     // Run the server
-    if err := router.Run(":3000"); err != nil {
+    if err := router.Run(":3003"); err != nil {
         panic(err)
     }
 }
